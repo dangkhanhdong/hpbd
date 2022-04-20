@@ -8,6 +8,7 @@ function loginValue()
 				alert('Oke, pass chị nhập đã chính xác!!!');
 						y.remove(y);
 						z.style.display = 'block';
+						document.getElementById("player").play();
 				 return false;
         	}
 			else{
