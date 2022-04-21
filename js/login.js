@@ -19,7 +19,6 @@ function loginValue()
 				else{
 					n = 0;
 					alert("Pass chị nhập sai rồi, pass có 8 kí tự nha!");
-					return false;
 				}
 			}
 		}
