@@ -16,8 +16,9 @@ function loginValue()
 					n = 1;
 				}
 				else{
-					alert("Pass chị nhập sai rồi, pass có 8 kí tự nha!");
 					n = 0;
+					alert("Pass chị nhập sai rồi, pass có 8 kí tự nha!");
+					location.reload();	
 				}
 			}
 		}
