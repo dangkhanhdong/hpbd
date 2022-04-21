@@ -14,7 +14,6 @@ function loginValue()
 							z.style.display = 'block';
 							document.getElementById("player").play();
 							n = n + 1;
-					 return false;
 				}
 				else{
 					n = 0;
